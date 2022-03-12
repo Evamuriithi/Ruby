@@ -1,0 +1,1 @@
+print('precious jewel stone that i love!')
