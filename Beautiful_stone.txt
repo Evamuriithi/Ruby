@@ -1,1 +1,2 @@
-print('precious jewel stone that i love!')
+print('Rubies are red and beautiful')
+Print('Diamonds are precious than rubies')
